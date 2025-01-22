@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arthur.</h1>
 
-- 🔭 I’m currently learning C# language and searching internship opportunities **.**
+- 🔭 I’m currently learning about fonrtend and searching internship opportunities **.**
 
 - 🌱 100% beginner, but ready to learn **.**
 
