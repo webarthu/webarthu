@@ -1,4 +1,4 @@
-💫 About Me:
+About Me: <br>
 📍My name is Arthur, I'm Brazilian and 18 years old.<br>🧩I'm currently learning JavaScript, more specifically Node.js.<br>🔎I'm looking for my first internship.<br>📖Every day, I'm always ready to learn.<br><br>**初歩**
 
 
